@@ -1,4 +1,13 @@
 ## Olá, eu sou o Cássio
+<div>
+    <a href="http://www.linkedin.com/in/cassio09alves" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            target="_blank">
+    </a>
+</div>
+
+##
+
 <div align="center">
     <a href="https://github.com/cassio-kdev">
         <img height="180em"
@@ -23,14 +32,16 @@
 
 ##
 
-<div>
+<div style="display: inline_block">
+    <p>Oracle Certified Professional: Java SE 11 Developer</p>
     <a href="https://www.credly.com/badges/2cd778d6-e9ed-4244-8cc0-99622452061f" target="_blank">
-        <i class="devicon-oracle-original colored"></i>
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        <img height="30%" width="30%" alt="Oracle Certified Professional: Java SE 11 Developer" title="Oracle Certified Professional: Java SE 11 Developer" src="https://github.com/cassio-kdev/cassio-kdev/blob/master/Oracle_Java_SE_11_Developer.jpg"
             target="_blank">
     </a>
-    <a href="http://www.linkedin.com/in/cassio09alves" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    <p>Oracle Certified Associate, Java SE 8 Programmer</p>
+    <a href="https://www.credly.com/earner/earned/badge/55a8d85f-58d5-4ef2-8ae4-07f14f3513c4" target="_blank">
+        <img height="30%" width="30%" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer" src="https://github.com/cassio-kdev/cassio-kdev/blob/master/Oracle_Java_SE_11_Developer.jpg"
             target="_blank">
     </a>
+
 </div>
