@@ -1,8 +1,7 @@
 ## Olá, eu sou o Cássio
 <div>
     <a href="http://www.linkedin.com/in/cassio09alves" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </div>
 
