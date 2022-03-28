@@ -40,7 +40,7 @@
     </a>
     <p>Oracle Certified Associate, Java SE 8 Programmer</p>
     <a href="https://www.credly.com/earner/earned/badge/55a8d85f-58d5-4ef2-8ae4-07f14f3513c4" target="_blank">
-        <img height="30%" width="30%" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer" src="https://github.com/cassio-kdev/cassio-kdev/blob/master/Oracle_Java_SE_11_Developer.jpg"
+        <img height="30%" width="30%" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer" src="https://github.com/cassio-kdev/cassio-kdev/blob/master/oca-java-se-8.png"
             target="_blank">
     </a>
 
