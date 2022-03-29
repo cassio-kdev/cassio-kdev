@@ -1,5 +1,5 @@
 
-## Olá, eu sou o Cássio Desenvolvedor Java, graduado em Gestão da Tecnologia da Informação e especializado em Desenvolvimento de Software Full Stack, com cursos complementares na área de desenvolvimento de software. Possuo a certificação <a style="display:inline" href="https://www.credly.com/badges/2cd778d6-e9ed-4244-8cc0-99622452061f" title="Oracle Certified Professional: Java SE 11 Developer" target="_blank">Oracle Certified Professional: Java SE 11 Developer</a> e a <a style="justify-content:rigth" href="https://www.credly.com/earner/earned/badge/55a8d85f-58d5-4ef2-8ae4-07f14f3513c4" title="Oracle Certified Associate, Java SE 8 Programmer" target="_blank">Oracle Certified Associate, Java SE 8 Programmer</a>
+## Olá, eu sou o Cássio Desenvolvedor Java, graduado em Gestão da Tecnologia da Informação e especializado em Desenvolvimento de Software Full Stack, com cursos complementares na área de desenvolvimento de software. Possuo a certificação <a style="display:inline" href="https://www.credly.com/badges/2cd778d6-e9ed-4244-8cc0-99622452061f" title="Oracle Certified Professional: Java SE 11 Developer" target="_blank">Oracle Certified Professional: Java SE 11 Developer</a> e a <a style="justify-content:rigth" href="https://www.credly.com/badges/55a8d85f-58d5-4ef2-8ae4-07f14f3513c4/public_url" title="Oracle Certified Associate, Java SE 8 Programmer" target="_blank">Oracle Certified Associate, Java SE 8 Programmer</a>
 <div>
     <a href="http://www.linkedin.com/in/cassio09alves" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -37,7 +37,7 @@
         <img height="20%" width="20%" alt="Oracle Certified Professional: Java SE 11 Developer" title="Oracle Certified Professional: Java SE 11 Developer" src="https://github.com/cassio-kdev/cassio-kdev/blob/master/Oracle_Java_SE_11_Developer.jpg"
             target="_blank">
             </a>
-    <a style="justify-content:rigth" href="https://www.credly.com/earner/earned/badge/55a8d85f-58d5-4ef2-8ae4-07f14f3513c4" target="_blank">
+    <a style="justify-content:rigth" href="https://www.credly.com/badges/55a8d85f-58d5-4ef2-8ae4-07f14f3513c4/public_url" target="_blank">
         <img height="20%" width="20%" alt="Oracle Certified Associate, Java SE 8 Programmer" title="Oracle Certified Associate, Java SE 8 Programmer" src="https://github.com/cassio-kdev/cassio-kdev/blob/master/oca-java-se-8.png"
             target="_blank" />
     </a>
